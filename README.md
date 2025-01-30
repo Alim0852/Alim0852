@@ -37,7 +37,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alim0852&show_icons=true&locale=en&theme=tokyonight" alt="Alim0852" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Alim0852&theme=tokyonight)
+<p><img align="center" src="./streak-stats.png" alt="Alim0852's streak stats" /></p>
+
 
 
 
