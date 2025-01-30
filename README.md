@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mohsinalisurhio08@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohsin-ali-51a59a296/](https://www.linkedin.com/in/mohsin-ali-51a59a296/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mohsin-ali-51a59a296/](https://www.linkedin.com/in/m-alim-mughal-8142ab297/)
 
 - ⚡ Fun fact **You are very Intelligent.**
 
